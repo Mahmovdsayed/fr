@@ -24,7 +24,7 @@ const page = ({ }: IProps) => {
     },
     {
       text: "Instagram",
-      url: "https://www.instagram.com/farahtelebx/"
+      url: "https://www.instagram.com/fr.eg_/"
     },
     {
       text: "LinkedIn",
@@ -60,7 +60,7 @@ const page = ({ }: IProps) => {
           <Link target="_blank" href={"https://www.linkedin.com/in/farah-mohamed-2034a4291"}><span className="text-[#283890]"><FaLinkedin size={30} /></span></Link>
           <Link href={"mailto:farahmoahmed10@gmail.com"}><span className="text-[#283890]"><MdEmail size={30} /></span></Link>
           <Link target="_blank" href={"https://api.whatsapp.com/send?phone=201068487314"}><span className="text-[#283890]"><FaWhatsapp size={30} /></span></Link>
-          <Link target="_blank" href={"https://www.instagram.com/farahtelebx/"}><span className="text-[#283890]"><FaInstagramSquare size={30} /></span></Link>
+          <Link target="_blank" href={"https://www.instagram.com/fr.eg_/"}><span className="text-[#283890]"><FaInstagramSquare size={30} /></span></Link>
           <Link target="_blank" href={"https://www.tiktok.com/@fr.eg_"}><span className="text-[#283890]"><FaTiktok size={30} /></span></Link>
 
         </div>
